@@ -36,6 +36,7 @@ A 2D top-down RPG like Zelda, made in unity.
 
 ![Demo](Media/demo1.gif)
 ![Demo](Media/demo2.gif)
+![Demo](Media/demo3.gif)
 
 ## Gameplay Demo
 
